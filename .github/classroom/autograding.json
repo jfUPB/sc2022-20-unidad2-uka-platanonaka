@@ -1,0 +1,204 @@
+{
+  "tests": [
+    {
+      "name": "compile",
+      "setup": "",
+      "run": "cd ./problem1 && make",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "1",
+      "setup": "",
+      "run": "cd ./problem1 && bash ./test-main.sh -t 1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "2",
+      "setup": "",
+      "run": "cd ./problem1 && bash ./test-main.sh -t 2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "3",
+      "setup": "",
+      "run": "cd ./problem1 && bash ./test-main.sh -t 3",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "4",
+      "setup": "",
+      "run": "cd ./problem1 && bash ./test-main.sh -t 4",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "5",
+      "setup": "",
+      "run": "cd ./problem1 && bash ./test-main.sh -t 5",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "6",
+      "setup": "",
+      "run": "cd ./problem1 && bash ./test-main.sh -t 6",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "7",
+      "setup": "",
+      "run": "cd ./problem1 && bash ./test-main.sh -t 7",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "8",
+      "setup": "",
+      "run": "cd ./problem1 && bash ./test-main.sh -t 8",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "9",
+      "setup": "",
+      "run": "cd ./problem1 && bash ./test-main.sh -t 9",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "10",
+      "setup": "",
+      "run": "cd ./problem1 && bash ./test-main.sh -t 10",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "11",
+      "setup": "",
+      "run": "cd ./problem1 && bash ./test-main.sh -t 11",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "12",
+      "setup": "",
+      "run": "cd ./problem1 && bash ./test-main.sh -t 12",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "13",
+      "setup": "",
+      "run": "cd ./problem1 && bash ./test-main.sh -t 13",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "14",
+      "setup": "",
+      "run": "cd ./problem1 && bash ./test-main.sh -t 14",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "15",
+      "setup": "",
+      "run": "cd ./problem1 && bash ./test-main.sh -t 15",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "16",
+      "setup": "",
+      "run": "cd ./problem1 && bash ./test-main.sh -t 16",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "17",
+      "setup": "",
+      "run": "cd ./problem1 && bash ./test-main.sh -t 17",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "18",
+      "setup": "",
+      "run": "cd ./problem1 && bash ./test-main.sh -t 18",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "19",
+      "setup": "",
+      "run": "cd ./problem1 && bash ./test-main.sh -t 19",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    }
+  ]
+}
