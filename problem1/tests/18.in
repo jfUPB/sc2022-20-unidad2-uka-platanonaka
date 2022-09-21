@@ -1,0 +1,17 @@
+add
+ev1
+add
+ev2
+add
+ev3
+ask
+rm
+ev3
+ask
+rm
+ev2
+ask
+rm
+ev1
+ask
+exit
